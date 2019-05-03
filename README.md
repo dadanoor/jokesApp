@@ -7,4 +7,5 @@ App is extends with AsyncTask Loader
 Jokes are Displayed in Recycler View
 For every Joke there is a detaied Activity
 I used Adapter class for this jokes
-Added all dependencies in build.gradle file.
+Added all dependencies in build.gradle files.
+
